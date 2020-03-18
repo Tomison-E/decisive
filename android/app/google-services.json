@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "336733568030",
+    "firebase_url": "https://decisivetomi.firebaseio.com",
+    "project_id": "decisivetomi",
+    "storage_bucket": "decisivetomi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336733568030:android:28740d1a4e3a563ac6020f",
+        "android_client_info": {
+          "package_name": "decisive.com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336733568030-6ih159tbnpsoocrj30jneledfvmoufq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1SsP2uXga4PJ9oC12TZVIpnVLW1iLGfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336733568030-6ih159tbnpsoocrj30jneledfvmoufq4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336733568030-meais25sfh7ro6p90cdpv1h5k7q4ttmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "decisive.com.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
